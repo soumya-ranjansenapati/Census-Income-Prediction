@@ -1,4 +1,11 @@
 # Census-Income-Prediction
 Github Project Python in Census Income Prediction.
 
+Predict whether income exceeds $50K/yr based on census data.
+
+This data was extracted from the 1994 Census bureau database by Ronny Kohavi and Barry Becker (Data Mining and Visualization, Silicon Graphics). A set of reasonably clean records was extracted using the following conditions: ((AAGE>16) && (AGI>100) && (AFNLWGT>1) && (HRSWK>0)). The prediction task is to determine whether a person makes over $50K a year
+
+Resource: UCI Machine Learning
+
+
 download the CSV file 1st after that write the code and then run that code.
